@@ -33,7 +33,13 @@ section.about {
 
 /*Tablet*/
 @media (max-width: 768px) {
-
+    .about__title{
+        font-size: 1.4rem;
+    }
+    section.about {
+        background-color: var(--color-de-fondo-alt);
+        padding: 6%;
+    }
 }
 
 /*Mobile*/

@@ -173,10 +173,17 @@ section.formcontacto {
 
 /*Tablet*/
 @media (max-width: 768px) {
-
-}
-
-/*Mobile*/
-@media (max-width: 425px) {
-
+    .formcontacto--esquerda {
+        display: none;
+    }
+    .formcontacto__text {
+        width: 100%;
+        height: 400px;
+    }
+    .formcontacto__title {
+        font-size: 1.4rem;
+    }
+    .formcontacto__subtext {
+        font-size: 1rem;
+    }
 }

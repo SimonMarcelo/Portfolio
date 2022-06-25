@@ -27,10 +27,7 @@ section.footer {
 
 /*Tablet*/
 @media (max-width: 768px) {
-
-}
-
-/*Mobile*/
-@media (max-width: 425px) {
-
+    .logo__rodapie {
+        height: 50px;
+    }
 }
