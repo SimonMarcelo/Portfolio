@@ -32,7 +32,7 @@ section.title {
 	display: flex;
 	justify-content: space-between;
 	font-size: 1.5rem;
-	max-width: 700px;
+	max-width: 350px;
 }
 
 
@@ -53,7 +53,7 @@ section.title {
         display: flex;
         justify-content: space-between;
         font-size: 1rem;
-        max-width: 500px;
+        max-width: 250px;
     }
 }
 
@@ -75,7 +75,7 @@ section.title {
         display: flex;
         justify-content: space-between;
         font-size: .65rem;
-        max-width: 300px;
+        max-width: 150px;
     }
 }
 
